@@ -62,9 +62,3 @@ Det du måste göra nu är att på egen hand få rätt på följande funktionali
          - Sätt `msgHolderEl` visa meddelande om att användaren har förlorat och låt dem börja om spelet (här får man _inte_ använda `location.reload()` utan det ska gå att programmatiskt starta om spelet igen)
 
 ---
-
-## För dig som strävar efter högre betyg
-
-1. Börja om från scratch med egen styling och HTML samt JS.
-2. I så stor utsträckning som möjligt visa på att du förstår begreppen med globala/lokala variabler, scopes, closures, events, iteration, konditionsblock, inbyggda metoder m.m. etc.
-3. *Bonus*: implementera stöd för tangenbordsgissning, eller kanske rentav gissa med mikrofonen eller någon annan tokig lösning!
